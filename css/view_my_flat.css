@@ -1,0 +1,41 @@
+body{
+	background: #E6FFE6;
+}
+.flat_section
+{
+	margin-top: 80px;
+}
+.my_flat
+{
+	border: 2px solid transparent;
+	background-color: #FFF;
+	height: 300px;
+	padding: 20px 20px 20px 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+h3
+{
+	color: blue;
+	font-style: italic;
+}
+
+h4
+{
+	color: red;
+	font-style: italic;
+}
+p
+{
+	
+	font-family: times new roman;
+	font-size: 16px;
+}
+.edit
+{
+	margin-top: 70px;
+}
+.edit_change_button
+{
+	width: 290px;
+}

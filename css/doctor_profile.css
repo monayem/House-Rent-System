@@ -1,0 +1,55 @@
+body{
+	background: #E6FFE6;
+}
+.profile
+{
+    margin-top: 70px;
+}
+.details
+{
+	margin-top: 50px;
+    border: 2px solid white;
+    padding: 20px 20px 20px 20px;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+.list
+{
+    margin-top: 30px;
+}
+.new
+{
+    width: 360px;
+}
+.details
+{
+	font-size: 16px;
+}
+.edit_change_button
+
+{
+	width: 300px;
+}
+.flat
+{
+	margin-top: 200px;
+	border: 2px solid white;
+	background-color: #FFF;
+	padding: 20px;
+	border-radius: 10px;
+}
+.head
+{
+	font-size: 16px;
+	text-align: center;
+	
+}
+
+.final
+{
+	margin-top: 100px;
+	border: 2px solid white;
+	background-color: #FFF;
+	padding: 20px;
+	border-radius: 10px;
+}
